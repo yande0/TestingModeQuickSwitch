@@ -1,0 +1,6 @@
+D:\Releases\SwitchTestingMode\obj\Debug\SwitchTestingMode.csproj.AssemblyReference.cache
+D:\Releases\SwitchTestingMode\obj\Debug\SwitchTestingMode.csproj.CoreCompileInputs.cache
+D:\Releases\SwitchTestingMode\bin\Debug\SwitchTestingMode.exe
+D:\Releases\SwitchTestingMode\bin\Debug\SwitchTestingMode.pdb
+D:\Releases\SwitchTestingMode\obj\Debug\SwitchTestingMode.exe
+D:\Releases\SwitchTestingMode\obj\Debug\SwitchTestingMode.pdb
